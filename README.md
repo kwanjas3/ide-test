@@ -1,2 +1,2 @@
 # ide-test
-testing soemthing
+testing something
